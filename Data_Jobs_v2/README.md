@@ -1,7 +1,7 @@
 # Data Jobs Dashboard v2 w/ Power BI
 > 🚧 Under Construction 🚧
 
-![Dashboard Page 1](/images/Project2_Page1.gif)
+![Dashboard Page 1](/images/Project2_Page1_v2.gif)
 
 ## Introduction
 
