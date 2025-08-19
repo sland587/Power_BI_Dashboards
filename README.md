@@ -10,7 +10,7 @@ Explore the dashboards below. Each has its own dedicated README with more detail
 
 ![Data Jobs DB GIF](images/Project1_Page1.png)
 
-You can find the file for the dashboard here: [`Data_Jobs_Dashboard.pbix`](Data_Jobs_v1/Data_Jobs_Dashboard.pbix?raw=true). 
+You can find the file for the dashboard here: [`Data_Jobs_Dashboard.pbix`](./Data_Jobs_v1/Data_Jobs_Dashboard.pbix?raw=true). 
 
 **Key Power BI Skills Utilized:**
 * Dashbaord Layout & Design
@@ -24,4 +24,4 @@ You can find the file for the dashboard here: [`Data_Jobs_Dashboard.pbix`](Data_
 * Buttons & Bookmarks for Page Navigation
 * Drill-Through Functionality
 
-[**View Full Project 1 Details (README)**](Data_Jobs_v1/README.md)
+[**View Full Project 1 Details (README)**](./Data_Jobs_v1/README.md)
