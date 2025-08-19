@@ -24,4 +24,4 @@ You can find the file for the dashboard here: [`Data_Jobs_Dashboard.pbix`](https
 * Buttons & Bookmarks for Page Navigation
 * Drill-Through Functionality
 
-[**View Full Project 1 Details (README)**](/Data_Jobs_v1/README.md)
+[**View Full Project 1 Details (README)**](/Data_Jobs_v1)
