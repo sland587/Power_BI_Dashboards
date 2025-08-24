@@ -28,7 +28,7 @@ You can find the file for the dashboard here: [`Data_Jobs_Dashboard.pbix`](https
 
 ## Data Jobs Dashboard (V2 - Single-Page Focus)
 
-![Data Jobs DB GIF](/images/Project2_Page1.png)
+![Data Jobs DB GIF](/images/Project2_Page1_v2.gif)
 
 You can find the file for the dashboard here: [`Data_Jobs_Dashboard.pbix`](https://raw.githubusercontent.com/sland587/Power_BI_Dashboards/main/Data_Jobs_v1/Data_Jobs_Dashboard.pbix). 
 
