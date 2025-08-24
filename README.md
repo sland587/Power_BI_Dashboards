@@ -8,7 +8,7 @@ Explore the dashboards below. Each has its own dedicated README with more detail
 
 ## Data Jobs Dashboard (V1 - Comprehensive Exploration)
 
-![Data Jobs DB GIF](/images/Project1_Page1.png)
+![Data Jobs DB GIF](/images/Project1_Navigation.gif)
 
 You can find the file for the dashboard here: [`Data_Jobs_Dashboard.pbix`](https://raw.githubusercontent.com/sland587/Power_BI_Dashboards/main/Data_Jobs_v1/Data_Jobs_Dashboard.pbix). 
 
